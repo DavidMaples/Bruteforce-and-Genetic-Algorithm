@@ -9,24 +9,8 @@
 
 
 
-
-   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-   <meta name="Author" content="John coffey">
-   <meta name="GENERATOR" content="Mozilla/4.61 [en] (WinNT; U) [Netscape]"><title>hashing Program</title>
    
-	<style>
-<!--
-div.Section1
 
-
-
-
-	{page:Section1;}
-
-
-
-
--->
 </style></head><body>
 <center>
 <p style="margin-top: 0pt; margin-bottom: 0pt;"><b><span size="4" style="font-size: large;">The University of West Florida <br> Department of Computer Science</span></b></p>
